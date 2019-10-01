@@ -1,0 +1,144 @@
+@font-face {
+font-family: "brandontext";
+src: url("BrandonText.ttf");
+}
+.maindiv{
+margin-top:7%;
+margin-left:7%;
+margin-right:5%;
+margin-bottom:7%;
+height:72%;
+width:85%;
+-webkit-box-shadow: 1px 4px 300px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 4px 300px 0px rgba(0,0,0,0.75);
+box-shadow: 1px 4px 300px 0px rgba(0,0,0,0.75);
+}
+.leftdiv{
+width:49%;
+height:100%;
+float:left;
+}
+
+.rightdiv{
+width:49%;
+height:100%;
+float:right;
+}
+.r1{
+height:15%;
+}
+.r2{
+height:55%;
+}
+.r3{
+height:15%;
+}
+.r4{
+height:15%;
+background-color:black;
+}
+.r1r1{
+float:left;
+padding-top:5%;
+padding-left:32%;
+}
+.r1r2{
+padding-top:4%;
+float:right;
+padding-right:8%;
+}
+.r2r1r1{
+margin:0px;
+padding-top:10%;
+padding-left:10%;
+position:relative;
+}
+input[type=text]{
+width:85%;
+height:13%;
+margin:0px;
+border:0px;
+padding-left:10%;
+border-bottom:1px solid blue;
+}	
+input[type=password]{
+width:85%;
+height:10%;
+border:0px;
+padding-left:10%;
+border-bottom:1px solid blue;
+}
+.r2r1r2{
+margin:0px;
+padding-top:7%;
+padding-left:10%;
+}
+.r2r1r3{
+padding-top:5%;
+padding-left:40%;
+}
+.create{
+color:blue;
+}
+.login{
+margin-top:10%;
+width:35%;
+height:15%;
+background-color:#1c77fb;
+color:white;
+}
+p{
+padding-left:10%;
+font-size:50%;
+}
+.facebookicon{
+padding-top:8%;
+padding-left:20%;
+float:left;
+width:25%;
+}
+.googleicon{
+float:right;
+padding-top:8%;
+width:30%;
+}
+.linkedin{
+padding-top:8%;
+float:left;
+width:20%;
+}
+.leftdiv{
+background-color: #498FFF;
+width:49%;
+height:100%;
+float:left;
+}
+.leftdiv > .div1{
+font-family: "brandontext";
+   margin-top:15%;
+   color: white;
+   margin-left: 15%;
+   margin-right: 15%;
+   text-align:right;
+}
+.leftdiv >.div2 {
+font-family: "brandontext";
+   color: white;
+   margin-left: 15%;
+   margin-right: 15%;
+   font-size: 12px;
+   text-align:right;
+}
+i{
+position:absolute;
+}
+.icon{
+margin-top:10%;
+margin-left:10%;
+}
+.div11{
+font-family: "brandontext";
+   color: white;
+   margin-left: 39%;
+   margin-right: 15%;
+}
